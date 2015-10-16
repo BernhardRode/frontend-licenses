@@ -2,4 +2,4 @@
 
 an awesome library
 
-* Thanks to Kent C. Dots ;)
+* Thanks to Kent C. Dodds ;)
